@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #020B12;
+}
+h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h4 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+}
+p{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

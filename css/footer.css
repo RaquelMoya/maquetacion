@@ -1,0 +1,89 @@
+.footer-component {
+    width: 100%;
+    height: 528px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    position: relative;
+    top: 910px;
+}
+.footer {
+    width: 100%;
+    height: 440px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer1{
+    width: 100%;
+    height: 88px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.footer1 p{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19.6px;
+    color: #333B41;
+}
+.footer p{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24.4px;
+    color: #333B41;
+}
+.footer h3{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25.2px;
+    color: #2563eb;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.company{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.footer .services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.contacto {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 282px;
+    max-width: 406px;
+}
+.policy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin-right: 140px;
+}
+.policy p{
+    padding-right: 10px;
+}
